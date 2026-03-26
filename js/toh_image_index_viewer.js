@@ -1,4 +1,4 @@
-const imageGrid = document.getElementById('imageGrid')
+﻿const imageGrid = document.getElementById('imageGrid')
 const cards = Array.from(document.querySelectorAll('.card'))
 const categoryFilter = document.getElementById('categoryFilter')
 const categoryFilterBtn = document.getElementById('categoryFilterBtn')
